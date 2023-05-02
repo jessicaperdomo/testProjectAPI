@@ -3,7 +3,8 @@ Information:
   The project uses some resources from the express and axios packages for requests and uses nodemon to facilitate changes in the code.
   The project makes a request to the npm URL and brings the description of the packages passed along the path.
 
-Example: http://localhost:8080/describe/express (GET)
+Example:
+  http://localhost:8080/describe/express (GET)
   https://registry.npmjs.com/express (GET)
 
 To run:
